@@ -1,6 +1,12 @@
+# 1.0.174
+- Bug fixing su selezione tipologia ticket
+- Aggiunta tipologia "Nessuna", che contiene i ticket senza nessun tipo assegnato
+
 # 1.0.173
+- Aggiunta la Wiki di Quoting24 nelle Impostazioni in basso a sinistra
+
+# 1.0.172
 - Bug fixing
-- Abbiamo aggiunto la Wiki di Quoting24 nelle Impostazioni in basso a sinistra
 
 # 1.0.171
 - Aggiunti Avvisi sui contatti (note importanti che compaiono sopra la chat)
