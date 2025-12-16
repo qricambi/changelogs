@@ -1,3 +1,7 @@
+# 1.0.173
+- Bug fixing
+- Abbiamo aggiunto la Wiki di Quoting24 nelle Impostazioni in basso a sinistra
+
 # 1.0.171
 - Aggiunti Avvisi sui contatti (note importanti che compaiono sopra la chat)
 
