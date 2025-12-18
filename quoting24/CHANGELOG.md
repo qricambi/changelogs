@@ -1,3 +1,6 @@
+# 1.0.175
+- Aggiunta possibilità di preimpostare i soprannomi degli utenti in fase di creazione
+
 # 1.0.174
 - Bug fixing su selezione tipologia ticket
 - Aggiunta tipologia "Nessuna", che contiene i ticket senza nessun tipo assegnato
