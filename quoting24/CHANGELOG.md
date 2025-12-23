@@ -1,3 +1,6 @@
+# 1.0.176
+- Cercare un codice su Qricambi non apre una scheda nuova, ma lo cerca su una tab già aperta
+
 # 1.0.175
 - Aggiunta possibilità di preimpostare i soprannomi degli utenti in fase di creazione
 
