@@ -1,3 +1,7 @@
+# 1.0.177
+- Aggiunta autoassegnazione ticket all'apertura (se ancora da leggere, e non assegnato a nessuno)
+- Modifica rapida di note e note aziende nella tab "Informazioni" del ticket
+
 # 1.0.176
 - Cercare un codice su Qricambi non apre una scheda nuova, ma lo cerca su una tab già aperta
 - Salvataggio del percorso per i codici cercati su P
