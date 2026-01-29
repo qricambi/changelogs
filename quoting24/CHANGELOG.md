@@ -1,3 +1,12 @@
+# 1.0.180
+- Bug fixing
+
+# 1.0.179
+- Bug fixing
+
+# 1.0.178
+- Bug fixing
+
 # 1.0.177
 - Aggiunta autoassegnazione ticket all'apertura (se ancora da leggere, e non assegnato a nessuno)
 - Modifica rapida di note e note aziende nella tab "Informazioni" del ticket
