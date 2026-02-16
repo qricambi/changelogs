@@ -1,4 +1,7 @@
-# 1.0.178 - 1.0.188
+# 1.0.188
+- Aggiornamento parte destra (ricerca targa/telaio)
+
+# 1.0.178 - 1.0.187
 - Bug fixing
 
 # 1.0.177
