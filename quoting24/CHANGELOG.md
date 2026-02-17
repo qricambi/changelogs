@@ -1,37 +1,40 @@
-# 1.0.188
+## 1.0.189
+- Aggiunto l’indicatore “sta scrivendo” nella chat attiva, per vedere quando un altro utente sta digitando
+
+## 1.0.188
 - Aggiornamento parte destra (ricerca targa/telaio)
 
-# 1.0.178 - 1.0.187
+## 1.0.178 - 1.0.187
 - Bug fixing
 
-# 1.0.177
+## 1.0.177
 - Aggiunta autoassegnazione ticket all'apertura (se ancora da leggere, e non assegnato a nessuno)
 - Modifica rapida di note e note aziende nella tab "Informazioni" del ticket
 
-# 1.0.176
+## 1.0.176
 - Cercare un codice su Qricambi non apre una scheda nuova, ma lo cerca su una tab già aperta
 - Salvataggio del percorso per i codici cercati su P
 
-# 1.0.175
+## 1.0.175
 - Aggiunta possibilità di preimpostare i soprannomi degli utenti in fase di creazione
 
-# 1.0.174
+## 1.0.174
 - Bug fixing su selezione tipologia ticket
 - Aggiunta tipologia "Nessuna", che contiene i ticket senza nessun tipo assegnato
 
-# 1.0.173
+## 1.0.173
 - Aggiunta la Wiki di Quoting24 nelle Impostazioni in basso a sinistra
 
-# 1.0.172
+## 1.0.172
 - Bug fixing
 
-# 1.0.171
+## 1.0.171
 - Aggiunti Avvisi sui contatti (note importanti che compaiono sopra la chat)
 
-# 1.0.170
+## 1.0.170
 - Aggiunti changelog
 
-# 1.0.169
+## 1.0.169
 - Notiche globali
 - Notifiche desktop
 
@@ -39,7 +42,7 @@ Abbiamo introdotto le **notifiche unificate** e le **notifiche desktop**.
 Adesso, indipendentemente da quale numero di telefono hai aperto, riceverai le notifiche da ogni numero collegato.  
 Per attivare le notifiche desktop, vai in *Impostazioni* -> *Notifiche* e clicca su *"Attiva notifiche desktop"*.
 
-# 1.0.168
+## 1.0.168
 - Integrazione preventivi Qricambi
 
 Abbiamo introdotto l'integrazione dei preventivi di Qricambi su Quoting24.  
@@ -48,17 +51,17 @@ Una volta inviato, il preventivo potrà  essere ulteriormente lavorato su Qricam
 
 Se siete interessati, o se non utilizzate i preventivi di Qricambi ma vorreste comunque un'integrazione simile del vostro gestionale, contattateci.
 
-# 1.0.167
+## 1.0.167
 - Ricerca per testo nei risultati di Qricambi
 - Download messaggi vocali e file audio
 
-# 1.0.166
+## 1.0.166
 - Sezione "comunicazioni di servizio"
 - Da oggi puoi inserire una nota interna senza toccare il mouse, digitando "@" e barra spaziatrice, uno dopo l'altro
 - Le *risposte salvate* vengono ordinate con un ordine alfabetico più intuitivo quando utilizzate
 - Bug fixing
 
-# 1.0.165
+## 1.0.165
 - Prezzi di listino nella ricerca di Qricambi
 - Informazioni sul cliente (Privato / Codice azienda) disponibili nella schermata dei ticket
 - Bottone *"Assegna privato"* nella schermata di assegnazione ad azienda
