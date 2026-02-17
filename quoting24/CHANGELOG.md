@@ -1,3 +1,6 @@
+## 1.0.190
+- Aggiunta possibilità di segnare un ticket come "Da leggere", che toglie tutti gli assegnati
+
 ## 1.0.189
 - Aggiunto l’indicatore “sta scrivendo” nella chat attiva, per vedere quando un altro utente sta digitando
 
