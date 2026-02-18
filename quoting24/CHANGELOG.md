@@ -1,3 +1,6 @@
+## 1.0.191
+- Aggiunto carosello dei media per poter scorrere tra le foto e i video che sono stati mandati in una chat
+
 ## 1.0.190
 - Aggiunta possibilità di segnare un ticket come "Da leggere", che toglie tutti gli assegnati
 
