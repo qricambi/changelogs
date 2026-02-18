@@ -1,3 +1,6 @@
+## 1.0.193
+- Aggiunto supporto a inoltro e eliminazione multipla di messaggi
+
 ## 1.0.192
 - Aggiunta notifica per quando il ticket aperto viene assegnato o disassegnato ad un utente
 
