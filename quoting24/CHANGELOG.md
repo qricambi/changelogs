@@ -1,3 +1,6 @@
+## 1.0.192
+- Aggiunta notifica per quando il ticket aperto viene assegnato o disassegnato ad un utente
+
 ## 1.0.191
 - Aggiunto carosello dei media per poter scorrere tra le foto e i video che sono stati mandati in una chat
 
