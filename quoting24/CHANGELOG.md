@@ -1,3 +1,7 @@
+## 1.0.194
+- Velocizzata lista contatti e aziende
+- Aggiunto supporto ai messaggi vocali
+
 ## 1.0.193
 - Aggiunto supporto a inoltro e eliminazione multipla di messaggi
 
