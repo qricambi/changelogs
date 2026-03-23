@@ -1,3 +1,6 @@
+## 1.0.195
+- Miglioramenti vari e bugfix per invio e ricezione messaggi
+
 ## 1.0.194
 - Velocizzata lista contatti e aziende
 - Aggiunto supporto ai messaggi vocali
