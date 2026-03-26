@@ -1,3 +1,7 @@
+## 1.0.196
+- Invia messaggio senza intestazione/firma
+- Sistemati bug so varie operazioni batch
+
 ## 1.0.195
 - Miglioramenti vari e bugfix per invio e ricezione messaggi
 
