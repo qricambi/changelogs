@@ -1,3 +1,6 @@
+## 1.0.197
+- Aggiornata funzione di ricerca tra i ticket
+
 ## 1.0.196
 - Invia messaggio senza intestazione/firma
 - Sistemati bug su varie operazioni batch
