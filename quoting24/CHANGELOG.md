@@ -1,3 +1,8 @@
+## 1.0.198
+- Bugfix
+- Invia direttamente foto dello spaccato in chat 
+- Miglioramenti in chat per risposte salvate e menzione utenti
+
 ## 1.0.197
 - Aggiornata funzione di ricerca tra i ticket
 
