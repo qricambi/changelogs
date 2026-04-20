@@ -1,3 +1,6 @@
+## 1.0.199 - 1.0.204
+- Bugfix
+
 ## 1.0.198
 - Bugfix
 - Invia direttamente foto dello spaccato in chat 
