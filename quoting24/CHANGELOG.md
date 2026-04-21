@@ -1,3 +1,6 @@
+## 1.0.205 
+- Aggiunto supporto per "Cerca su E"
+
 ## 1.0.199 - 1.0.204
 - Bugfix
 
