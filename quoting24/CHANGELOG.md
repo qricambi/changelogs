@@ -1,3 +1,11 @@
+## 1.0.206
+- Migliomenti nella gestione contatti e nelle notifiche
+- Miglioramenti nella parte di destra
+- Assegnare una tipologia a un ticket assegna automaticamente i suoi assegnatari al ticket
+- Possibilità di taggare *tutti* i collaboratori in una nota interna
+- Possibilità di assegnare *tutti* i collaboratori a un ticket
+- Anteprima della chat passandoci sopra col mouse nella parte di sinistra
+
 ## 1.0.205 
 - Aggiunto supporto per "Cerca su E"
 
