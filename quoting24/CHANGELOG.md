@@ -5,6 +5,7 @@
 - Possibilità di taggare *tutti* i collaboratori in una nota interna
 - Possibilità di assegnare *tutti* i collaboratori a un ticket
 - Anteprima della chat passandoci sopra col mouse nella parte di sinistra
+- Possibilità di aggiungere un allegato alle risposte salvate
 
 ## 1.0.205 
 - Aggiunto supporto per "Cerca su E"
