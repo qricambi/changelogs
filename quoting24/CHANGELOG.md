@@ -1,5 +1,5 @@
 ## 1.0.206
-- Migliomenti nella gestione contatti e nelle notifiche
+- Miglioramenti nella gestione contatti e nelle notifiche
 - Miglioramenti nella parte di destra
 - Assegnare una tipologia a un ticket assegna automaticamente i suoi assegnatari al ticket
 - Possibilità di taggare *tutti* i collaboratori in una nota interna
