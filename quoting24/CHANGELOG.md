@@ -1,3 +1,11 @@
+## 1.0.208
+- Bugfix
+
+## 1.0.207
+- Miglioramenti nella precisione e nella velocità della ricerca della tavola corretta del telaio
+- Aggiunta possibilità di assegnare collaboratori e stato ai singoli veicoli
+- Aggiornamento interfaccia parte di destra
+
 ## 1.0.206
 - Miglioramenti nella gestione contatti e nelle notifiche
 - Miglioramenti nella parte di destra
