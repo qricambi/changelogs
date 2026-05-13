@@ -1,3 +1,7 @@
+## 1.0.210
+- Bug fixing
+- Miglioramenti nell'usabilità della parte di destra
+
 ## 1.0.209
 - Nome del file del preventivo contiene targa, telaio, o numero del preventivo
 
