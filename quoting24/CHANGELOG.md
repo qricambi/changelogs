@@ -1,3 +1,11 @@
+## 1.0.211 - ## 1.0.217
+- Ora è possibile visualizzare chi ha messo le reaction ai messaggi
+- La visualizzazione della chat principale adesso ha lo stesso formato della chat intera: sono presenti delle linee che indicano quando inizia e quando finisce un ticket in più è presente il tasto "Unisci" e lo "Scollega richiesta" indicato con un occhietto sbarrato
+- Abbiamo modificato il comportamento delle reazioni ai messaggi: le reazioni vanno nelle notifiche di quoting24 (campanella e notifiche desktop), le reazioni vengono visualizzate nella preview dei messaggi nella colonna di sinistra, quando un cliente mette una reazione ad un messaggio di un ticket già chiuso, esso effettuerà un "reply" del messaggio visualizzabile nel ticket ancora aperto.
+- Abbiamo migliorato il comportamento delle note interne: adesso quando un utente su Quoting viene taggato in una nota interna la notifica è di colore arancione, a fianco delle spunte di visualizzazione viene mostrata l'icona della nota interna
+- Nella sezione veicoli, abbiamo aggiunto due nuove impostazioni con cui è possibile bloccare l'utilizzo dei crediti di ricerca su Quoting: la prima blocca l'utilizzo dei crediti per la transcodifica targa-telaio, la seconda blocca l'utilizzo dei crediti per la ricerca del VIN
+- Nella sezione attività adesso è possibile nascondere l'estrapolazione dei dati (immagini, vocali e testo) da parte dell'AI
+
 ## 1.0.210
 - Bug fixing
 - Miglioramenti nell'usabilità della parte di destra
