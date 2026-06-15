@@ -1,4 +1,4 @@
-## 1.0.211 - ## 1.0.217
+## 1.0.211 - 1.0.217
 - Ora è possibile visualizzare chi ha messo le reaction ai messaggi
 - La visualizzazione della chat principale adesso ha lo stesso formato della chat intera: sono presenti delle linee che indicano quando inizia e quando finisce un ticket in più è presente il tasto "Unisci" e lo "Scollega richiesta" indicato con un occhietto sbarrato
 - Abbiamo modificato il comportamento delle reazioni ai messaggi: le reazioni vanno nelle notifiche di quoting24 (campanella e notifiche desktop), le reazioni vengono visualizzate nella preview dei messaggi nella colonna di sinistra, quando un cliente mette una reazione ad un messaggio di un ticket già chiuso, esso effettuerà un "reply" del messaggio visualizzabile nel ticket ancora aperto.
