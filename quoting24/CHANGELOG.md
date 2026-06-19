@@ -1,3 +1,7 @@
+## 1.0.2018 - 1.0.219
+- Migliorie grafiche nella sezione della chat
+- Le azioni sul messaggio possono essere effettuato facendo click destro o tramite la freccia alla destra del messaggio
+
 ## 1.0.211 - 1.0.217
 - Ora è possibile visualizzare chi ha messo le reaction ai messaggi
 - La visualizzazione della chat principale adesso ha lo stesso formato della chat intera: sono presenti delle linee che indicano quando inizia e quando finisce un ticket in più è presente il tasto "Unisci" e lo "Scollega richiesta" indicato con un occhietto sbarrato
