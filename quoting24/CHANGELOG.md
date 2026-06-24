@@ -1,4 +1,8 @@
-## 1.0.2018 - 1.0.219
+## 1.0.220
+- Migliorie grafiche della parte di sinistra 
+- Introduzione dello stato in "Pausa": si tratta di uno stato intermedio tra l'aperto e chiuso, in cui sei in attesa di un messaggio dal cliente, ma allo stesso tempo non è un ticket da chiudere definitivamente. A differenza dei ticket chiusi, se il cliente riscrive, il ticket in "Pausa" torna in aperto e rimane assegnato sempre all'operatore originale e vengono visualizzati di default i messaggi precedenti
+
+## 1.0.218 - 1.0.219
 - Migliorie grafiche nella sezione della chat
 - Le azioni sul messaggio possono essere effettuato facendo click destro o tramite la freccia alla destra del messaggio
 
