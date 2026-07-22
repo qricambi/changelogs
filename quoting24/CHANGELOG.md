@@ -5,6 +5,7 @@
 - Mostra in tempo reale la cronologia di stati, visualizzazioni, letture, assegnazioni e rimozioni del ticket e delle ricerche collegate, indicando chi ha eseguito l’azione e quando.
 - Aggiunto un editor fotografico per le immagini allegate prima dell’invio in chat.
 - È possibile ritagliare, ruotare, specchiare, disegnare, cancellare e annullare le modifiche; l’editor è disponibile solo per le immagini ancora in coda di invio.
+- Se un numero non è salvato su Quoting24, inserendolo nella barra di ricerca hai la possibilità successivamente di salvarlo e poi aprire una chat direttamente con il contatto
 
 ## 1.0.220
 - Migliorie grafiche della parte di sinistra 
