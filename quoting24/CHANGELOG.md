@@ -1,3 +1,11 @@
+## 1.0.221 - 1.0.225
+- Bugfix
+- Quoting è ora il sistema master per i nomi dei contatti: i dati provenienti da WhatsApp vengono usati solo per creare nuovi contatti o completare informazioni mancanti. Le modifiche effettuate in Quoting vengono invece sincronizzate e sovrascritte automaticamente anche nella rubrica del telefono. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/contacts/#sincronizzazione-nomi-contatti" target="_blank" rel="noopener noreferrer">qui</a>.
+- Aggiunta la nuova tab **Storico** nel pannello laterale del ticket, accessibile tramite l’icona dell’orologio.
+- Mostra in tempo reale la cronologia di stati, visualizzazioni, letture, assegnazioni e rimozioni del ticket e delle ricerche collegate, indicando chi ha eseguito l’azione e quando.
+- Aggiunto un editor fotografico per le immagini allegate prima dell’invio in chat.
+- È possibile ritagliare, ruotare, specchiare, disegnare, cancellare e annullare le modifiche; l’editor è disponibile solo per le immagini ancora in coda di invio.
+
 ## 1.0.220
 - Migliorie grafiche della parte di sinistra 
 - Introduzione dello stato in "Pausa": si tratta di uno stato intermedio tra l'aperto e chiuso, in cui sei in attesa di un messaggio dal cliente, ma allo stesso tempo non è un ticket da chiudere definitivamente. A differenza dei ticket chiusi, se il cliente riscrive, il ticket in "Pausa" torna in aperto e rimane assegnato sempre all'operatore originale e vengono visualizzati di default i messaggi precedenti
