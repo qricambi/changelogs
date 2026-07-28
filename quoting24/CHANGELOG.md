@@ -1,3 +1,7 @@
+## 1.0.226
+- Interfaccia mobile
+- Bugfix
+
 ## 1.0.221 - 1.0.225
 - Bugfix
 - Quoting ora gestisce e sincronizza i nomi dei contatti. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/contacts/#sincronizzazione-nomi-contatti" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
