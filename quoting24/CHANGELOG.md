@@ -1,3 +1,7 @@
+## 1.0.227 - 1.0.228
+- Ora puoi esportare i contatti del tenant in Excel (tutti o solo i selezionati), con azienda e location. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/contacts/#export" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+- Import contatti da Excel: anteprima in tabella, poi salvataggio con aggiornamento per id/telefono o creazione se nuovi. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/contacts/#import" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
 ## 1.0.226
 - Interfaccia mobile
 - Bugfix
