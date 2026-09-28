@@ -1,20 +1,47 @@
-## 1.0.242 - 1.0.247
+## 1.0.247
 - Accanto al nome del contatto viene mostrato anche il nome dell’azienda. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#dettagli-per-singola-chat" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.246
 - Nella tab Informazioni è possibile modificare direttamente il responsabile e viene visualizzata l’azienda assegnata. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#informazioni-del-ticket" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
 - Nelle Impostazioni, nella selezione fornitori, è possibile flaggare “Gruppi” per mostrare i gruppi fornitori dell’account Qricambi e aggiungerli massivamente. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/qricambi_integration/#selezione-fornitori-e-flag-gruppi" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.245
 - Se tra due ticket collegati ci sono altri messaggi o ticket, compare un pulsante per aprire la conversazione intera in quel punto. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#visualizzazione-dei-ticket-nella-chat" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.244
 - Nei banner che separano i ticket (e con “Vedi precedente”) sono mostrati data, ora e chi ha chiuso il ticket. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#visualizzazione-dei-ticket-nella-chat" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.243
 - È possibile esportare la chat, con o senza media; i media vengono salvati in uno zip a parte. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#esportazione-chat" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.242
 - Nella selezione degli assegnatari è stata aggiunta l’opzione “Nessuno”, che rimuove tutti gli assegnatari. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/assegnazioni/#assegnazione-manuale-e-assegnazione-a-tutti" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
 
-## 1.0.229 - 1.0.241
+## 1.0.240 - 1.0.241
+- Bug fix
 - Anteprima PDF in chat: i PDF mostrano la miniatura della prima pagina nel messaggio; aprendo il file si visualizza il documento. Se l’anteprima non è disponibile, resta la scheda file classica. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#anteprima-pdf-in-chat" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.237 - ## 1.0.239
+- Bug fix
 - Le note interne di testo si possono modificare entro 15 minuti, solo dall’autore. Rispondendo a una nota interna, la risposta resta una nota interna e l’autore della nota originale viene riassegnato al ticket. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#note-interne" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.236
 - Sui messaggi vocali compare lo stato “Trascrizione in corso…” e il pulsante Riprova per rilanciare la trascrizione. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#messaggi-vocali-audio-e-media" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.233 - ## 1.0.235
+- Bux fix
 - Nelle Impostazioni → Notifiche si può scegliere il suono (con anteprima), inclusa l’opzione Nessuno. Il livello delle notifiche messaggi è impostabile per ogni attività; menzioni, assegnazioni e suono restano impostazioni dell’utente. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/notifications/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.232
 - La ricerca a sinistra è suddivisa in sezioni: Tutte / Conversazioni / Messaggi / Ricambi, con il conteggio dei risultati. I contatti si trovano anche per nome e codice azienda; se la corrispondenza è sull’azienda compare un’etichetta con nome o codice. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#ricerca-nella-lista-ticket" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.231
 - Aprendo un ticket con messaggi non letti del cliente, in chat compare l’indicatore “N messaggi da leggere” tra già letti e da leggere. Il conteggio si aggiorna se arrivano altri messaggi del cliente; non conta note interne né messaggi inviati. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#banner-n-messaggi-da-leggere" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.230
 - Aggiunta la dettatura vocale sotto il campo di scrittura: con il permesso al microfono, la voce viene trascritta in tempo reale nel messaggio. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#dettatura-vocale" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
+
+## 1.0.229
 - Nell’amministrazione account è possibile modificare rapidamente soprannome e firma dell’utente selezionato tramite l’icona a matita. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/user/#cambio-password-e-gestione-account" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
 
 ## 1.0.227 - 1.0.228
