@@ -21,7 +21,7 @@
 - Bug fix
 - Anteprima PDF in chat: i PDF mostrano la miniatura della prima pagina nel messaggio; aprendo il file si visualizza il documento. Se l’anteprima non è disponibile, resta la scheda file classica. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#anteprima-pdf-in-chat" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
 
-## 1.0.237 - ## 1.0.239
+## 1.0.237 - 1.0.239
 - Bug fix
 - Le note interne di testo si possono modificare entro 15 minuti, solo dall’autore. Rispondendo a una nota interna, la risposta resta una nota interna e l’autore della nota originale viene riassegnato al ticket. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#note-interne" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
 
