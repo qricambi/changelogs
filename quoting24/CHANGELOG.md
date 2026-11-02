@@ -1,3 +1,13 @@
+## 1.0.256
+- Aggiunto canale Telegram
+- Miglioramenti sulle performance delle Email
+- Supporto agli Alias nelle Email
+
+## 1.0.255
+- Aggiunto supporto ai canali
+- Aggiunto canale Email
+- Aggiunti workflow
+
 ## 1.0.254.1
 - Foto editor: effetto sfocatura con rettangoli pixellati regolabili; un altro clic sulla foto ne aggiunge altri. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/main_screen/#editor-immagini-prima-dellinvio" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
 - Firma e intestazione: si sceglie se inviarle sempre o solo al primo messaggio del ticket e con Invia e chiudi. Per ulteriori informazioni schiaccia <a href="https://wiki.quoting24.com/content/profilo/#firma-intestazione-e-messaggi-automatici" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: underline;">qui</a>.
