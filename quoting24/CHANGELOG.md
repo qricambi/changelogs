@@ -1,3 +1,27 @@
+## 1.0.261
+- Aggiunte immagini nel corpo delle email e più contatti e aziende nei nuovi ticket email
+- Aggiunti chat interna tra stanze dello stesso account, forum dei ticket e ospiti
+- Aggiunta la personalizzazione dell’avatar
+- Migliorate performance e sincronizzazione email
+
+## 1.0.257 - 1.0.260
+- Aggiunte menzioni nei gruppi WhatsApp, citazioni nei messaggi e testo nell’editor fotografico
+- Bugfix su widget e WhatsApp
+
+## 1.0.256.5 - 1.0.256.6
+- Bugfix
+
+## 1.0.256.4
+- Aggiunte bozze email salvate e condivise e inviti all’app clienti dai ticket
+- Ampliati i workflow con nuove condizioni, notifiche, risposte e inoltri email
+- Aggiunti pannello ricambi espanso, pulsante Auto e miglioramenti alle risposte suggerite
+
+## 1.0.256.2
+- Aggiunta la scelta del codice ricambio con AI dagli spaccati
+- Ampliati i workflow con categorizzatore AI e blocchi trascinabili
+- Aggiunti più orari per turno di consegna
+- Miglioramenti a Telegram, email e importazione contatti
+
 ## 1.0.256
 - Aggiunto canale Telegram
 - Miglioramenti sulle performance delle Email
