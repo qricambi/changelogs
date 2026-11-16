@@ -1,3 +1,6 @@
+## 1.0.262
+- Aggiunta l’analisi AI delle email: il pulsante Analizza legge testo, foto e PDF e compila veicolo e richieste
+
 ## 1.0.261
 - Aggiunte immagini nel corpo delle email e più contatti e aziende nei nuovi ticket email
 - Aggiunti chat interna tra stanze dello stesso account, forum dei ticket e ospiti
