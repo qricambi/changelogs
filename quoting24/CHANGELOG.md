@@ -1,3 +1,7 @@
+## 1.0.264
+- Miglioramenti vari nella chat interna
+- Collaborazione tra stanze diverse
+
 ## 1.0.263
 - Aggiunta la firma alle email
 - Aggiunti chat interna tra stanze dello stesso account, forum dei ticket e ospiti
